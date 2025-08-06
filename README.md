@@ -21,7 +21,7 @@ Projeto simples para gerenciar jogadores de futebol, com as funções de adicion
 ## Como usar
 
 1. Clone o repositório:
-git clone https://github.com/seu-usuario/seu-repo.git
+git clone https://github.com/Deyvidbru/projeto-times-if.git
 
 3. Abra o arquivo `index.html` no navegador.
 
